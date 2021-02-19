@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="UrtukMod:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UrtukMod_jar</output-path>
+    <root id="root">
+      <element id="archive" name="UrtukMod.jar">
+        <element id="module-output" name="UrtukMod" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../desktop-1.0.jar" />
+    </root>
+  </artifact>
+</component>
